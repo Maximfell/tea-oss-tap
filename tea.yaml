@@ -1,0 +1,6 @@
+version: 1
+project:
+  name: tea-oss-tap
+  description: A minimal dApp for the Tea Sepolia testnet demonstrating wallet connection via MetaMask.
+  license: MIT
+  repository: https://github.com/Maximfell/tea-oss-tap
