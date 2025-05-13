@@ -1,0 +1,15 @@
+{
+  "name": "tea-oss-tap",
+  "version": "1.0.0",
+  "description": "A minimal dApp for the Tea Sepolia testnet demonstrating wallet connection via MetaMask.",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Starting tea-oss-tap\""
+  },
+  "keywords": ["tea", "dapp", "sepolia", "oss"],
+  "author": "Maximfell",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
